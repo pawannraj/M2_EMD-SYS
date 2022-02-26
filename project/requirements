@@ -1,0 +1,21 @@
+1.	Arduino UNO 2.HC SR04
+3.	DHT-11
+4.	Connecting wires 5.Battery or Power supply 6.Ironbar for support.
+
+Description of components:
+1.	Arduino uno:
+	The Arduino Uno is an open source microcontroller board based on the microchip Atmega328p microcontroller
+	The board is equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards (shields) and other circuits.
+		The board has 14 Digital pins, 6 Analog pins, and programmable with the Arduino IDE (Integrated Development Environment) via a type B USB cable.
+		It can be powered by the USB cable or by an external 9-volt battery though it accepts voltages between 7 and 20 volts.
+	Microcontroller: Atmega328p
+	Operating Voltage: 5 Volts
+	Input Voltage: 7 to 20 Volts
+	Digital I/O Pins: 14 (of which 6 provide PWM output)
+	Analog Input Pins: 6
+	Flash Memory: 32 KB
+	SRAM: 2 KB
+	EEPROM : 1 KB
+	Clock Speed: 16 MHz
+
+
