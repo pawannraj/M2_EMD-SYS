@@ -1,5 +1,28 @@
+/**
+ * @file activity1.h
+ * @author pawan (pawanraj3706@gmail.com.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-07
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #ifndef ACTIVITY1_H_INCLUDED
 #define ACTIVITY1_H_INCLUDED
+
+/**
+ * @file activity1.h
+ * @author pawan (pawanraj3706@gmail.com.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-07
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 
 #define F_CPU 16000000UL 	/**< Clock Frequency of MCU is 16 MHz */
 
