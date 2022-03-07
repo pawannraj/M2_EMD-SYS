@@ -1,5 +1,5 @@
 /**
- * @file activity2.h
+ * @file project2.h
  * @author pawan (pawanraj3706@gmail.com)
  * @brief 
  * @version 0.1
@@ -9,8 +9,8 @@
  * 
  */
 
-#ifndef __ACTIVITY_2_H__
-#define __ACTIVITY_2_H__
+#ifndef __PROJECT_2_H__
+#define __PROJECT_2_H__
 
 #include <avr/io.h>
 
