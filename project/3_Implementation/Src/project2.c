@@ -1,5 +1,5 @@
 /**
- * @file activity2.c
+ * @file project2.c
  * @author pawan (pawanraj3706@gmail.com)
  * @brief 
  * @version 0.1
@@ -9,7 +9,7 @@
  * 
  */
 
-#include "activity2.h"
+#include "project2.h"
 #include <avr/io.h>
 void Init_ADC()
 {
