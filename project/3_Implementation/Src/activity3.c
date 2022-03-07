@@ -1,3 +1,14 @@
+/**
+ * @file activity3.c
+ * @author pawan (pawanraj3706@gmail.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-07
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include "activity3.h"
