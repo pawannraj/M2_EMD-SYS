@@ -9,8 +9,8 @@
  * 
  */
 
-#ifndef ACTIVITY1_H_INCLUDED
-#define ACTIVITY1_H_INCLUDED
+#ifndef PROJECT1_H_INCLUDED
+#define PROJECT1_H_INCLUDED
 
 /**
  * @file project1.h
@@ -44,4 +44,4 @@ void delay_ms(uint32_t delay_time);
 void peripheral_init(void);
 
 
-#endif // ACTIVITY1_H_INCLUDED
+#endif // PROJECT1_H_INCLUDED
