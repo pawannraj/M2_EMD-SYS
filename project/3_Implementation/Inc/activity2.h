@@ -1,6 +1,6 @@
 /**
  * @file activity2.h
- * @author your pawan (pawanraj3706@gmail.com)
+ * @author pawan (pawanraj3706@gmail.com)
  * @brief 
  * @version 0.1
  * @date 2022-03-07
