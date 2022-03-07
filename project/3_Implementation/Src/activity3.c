@@ -4,6 +4,11 @@
 #include "activity4.h"
 #include <string.h>
 
+/**
+ * @brief A function to setup timer1 with channel A for pulse width modulation with wave generation mode of 10 bits fast PWM and prescaling of 64.
+ * 
+ */
+
 void TimerWave(void)
 {
 
@@ -11,6 +16,13 @@ void TimerWave(void)
     TCCR1B|=(1<<WGM12)|(1<<CS11)|(1<<CS10); //8 prescalar
     DDRB|=(1<<PB1); //Setting PB1 as output pin
 }
+
+/**
+ * @brief A function which receives 10 bit of ADC input from temperature sensor and outputs as a fast PWM waveform.
+ * 
+ * @param ADC_val 
+ * @return char
+ */
 
 void outputPWM(uint16_t ADC_val){
     int i;
