@@ -1,5 +1,5 @@
 /**
- * @file activity1.h
+ * @file project1.h
  * @author pawan (pawanraj3706@gmail.com.com)
  * @brief 
  * @version 0.1
@@ -13,7 +13,7 @@
 #define ACTIVITY1_H_INCLUDED
 
 /**
- * @file activity1.h
+ * @file project1.h
  * @author pawan (pawanraj3706@gmail.com.com)
  * @brief 
  * @version 0.1
