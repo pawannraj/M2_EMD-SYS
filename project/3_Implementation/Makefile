@@ -4,9 +4,9 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC =main.c\
-src/project1.c\
-src/project2.c\
-src/project3.c\
+src/activity1.c\
+src/activity2.c\
+src/activity3.c\
 
 
 
