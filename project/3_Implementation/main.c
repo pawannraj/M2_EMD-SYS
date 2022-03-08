@@ -11,9 +11,9 @@
 
 #include <avr/io.h>
 #include <util/delay.h>
-#include "project1.h"
-#include "project2.h"
-#include "project3.h"
+#include "activity1.h"
+#include "activity2.h"
+#include "activity3.h"
 
 
 int main(void)
