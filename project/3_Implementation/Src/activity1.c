@@ -1,5 +1,5 @@
 /**
- * @file project1.c
+ * @file activity1.c
  * @author pawan (pawanraj3706@gmail.com)
  * @brief 
  * @version 0.1
@@ -9,7 +9,7 @@
  * 
  */
 
-#include "project1.h"
+#include "activity1.h"
 
 
 void delay_ms(uint32_t delay_time)
