@@ -1,5 +1,5 @@
 /**
- * @file project3.c
+ * @file activity3.c
  * @author pawan (pawanraj3706@gmail.com)
  * @brief 
  * @version 0.1
@@ -11,21 +11,19 @@
 
 #include <avr/io.h>
 #include <util/delay.h>
-#include "project3.h"
-#include "project4.h"
+#include "activity3.h"
+#include "activity4.h"
 #include <string.h>
-
 /**
  * @brief A function to setup timer1 with channel A for pulse width modulation with wave generation mode of 10 bits fast PWM and prescaling of 64.
  * 
  */
-
-void TimerWave(void)
-{
+void TimerWave(void){
 
     TCCR1A|=(1<<COM1A1)|(1<<WGM10)|(1<<WGM11); //setting timer1 for PWM
     TCCR1B|=(1<<WGM12)|(1<<CS11)|(1<<CS10); //8 prescalar
     DDRB|=(1<<PB1); //Setting PB1 as output pin
+
 }
 
 /**
@@ -34,7 +32,6 @@ void TimerWave(void)
  * @param ADC_val 
  * @return char
  */
-
 void outputPWM(uint16_t ADC_val){
     int i;
     char temperature[10];
@@ -109,3 +106,4 @@ void outputPWM(uint16_t ADC_val){
         _delay_ms(20);
     }
 
+}
