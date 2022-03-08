@@ -1,4 +1,4 @@
-1:Button Sensor will check the passenger is sited or not.
+1:Button Sensor will check the passenger is seated or not.
 
 2:Temperature sensor works as table no. 1
 
