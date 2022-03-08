@@ -1,5 +1,5 @@
 /**
- * @file project1.h
+ * @file activity1.h
  * @author pawan (pawanraj3706@gmail.com.com)
  * @brief 
  * @version 0.1
@@ -9,11 +9,11 @@
  * 
  */
 
-#ifndef PROJECT1_H_INCLUDED
-#define PROJECT1_H_INCLUDED
+#ifndef activity1_H_INCLUDED
+#define activity1_H_INCLUDED
 
 /**
- * @file project1.h
+ * @file activity1.h
  * @author pawan (pawanraj3706@gmail.com.com)
  * @brief 
  * @version 0.1
@@ -44,4 +44,4 @@ void delay_ms(uint32_t delay_time);
 void peripheral_init(void);
 
 
-#endif // PROJECT1_H_INCLUDED
+#endif // activity1_H_INCLUDED
