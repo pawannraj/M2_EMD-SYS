@@ -1,5 +1,5 @@
 /**
- * @file project3.c
+ * @file activity3.c
  * @author pawan (pawanraj3706@gmail.com)
  * @brief 
  * @version 0.1
@@ -9,8 +9,8 @@
  * 
  */
 
-#ifndef __PROJECT_3_H__
-#define __PROJECT_3_H__
+#ifndef __activity_3_H__
+#define __activity_3_H__
 
 #include <avr/io.h>
 #include <util/delay.h>
